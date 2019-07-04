@@ -4,7 +4,7 @@ SEOTitle: longyu's blog
 header-img: img/bg_main_open.jpg
 email: longmmyu@gmail.com
 description: "Every failure is leading towards success."
-keyword: "iOS, Apple, iPhone"
+keyword: "Deep Learning, Computer Vision"
 url: "http://longyumm.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/longyumm/longyumm.github.io.git" # you code repository
@@ -104,6 +104,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "Ali Yun",
+        href: "https://cn.aliyun.com/"
     }
 ]
 
