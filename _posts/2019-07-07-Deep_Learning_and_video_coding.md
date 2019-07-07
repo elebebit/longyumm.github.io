@@ -11,11 +11,10 @@ tags:								#标签
     - 视频编码
 ---
 
-##深度学习与视频编码
 
 This paper is inspired by Prof. Wang in Peking University.
 
-###神经网络视频编码历史:
+神经网络视频编码历史:
 
 <center><img src="20190707/history.png" width="100%" height="100%" /></center>
 
