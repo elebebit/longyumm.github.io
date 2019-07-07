@@ -1,13 +1,14 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      深度学习与视频编码 				# 标题 
-subtitle:    #副标题
+subtitle:   总结                     #副标题
 date:       2019-07-07				# 时间
 author:     longyu 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 深度学习，视频编码
+    - 深度学习
+    - 视频编码
 ---
 
 ##深度学习与视频编码
