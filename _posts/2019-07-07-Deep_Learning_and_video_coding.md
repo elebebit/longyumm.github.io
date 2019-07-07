@@ -4,7 +4,7 @@ title:      深度学习与视频编码 				# 标题
 subtitle:   总结                     #副标题
 date:       2019-07-07				# 时间
 author:     longyu 						# 作者
-header-img: img/in_post/20190707/video_codec.jpeg 	#这篇文章标题背景图片
+header-img: img/in_post/20190707/video_codec.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 深度学习
