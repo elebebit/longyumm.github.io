@@ -67,9 +67,9 @@ This paper is inspired by Prof. Wang in Peking University.
 
 ---
 
-###基于深度学习的视频编码进展:
+### 基于深度学习的视频编码进展:
 
-#####深度学习与视频编码
+##### 深度学习与视频编码
 
 - <font color="#3500b2">帧内预测</font>
 - <font color="#3500b2">帧间预测</font>
