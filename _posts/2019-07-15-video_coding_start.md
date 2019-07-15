@@ -14,7 +14,7 @@ tags:                               #标签
 [课程链接](https://www.imooc.com/learn/959)
 
 
-## 万人直播架构讲与CDN入门
+## 1. 万人直播架构讲与CDN入门
 
 ### 1.1 万人直播架构讲解
 
@@ -62,7 +62,7 @@ tags:                               #标签
 
 [链接](https://www.imooc.com/video/16763)
 
-## 音频入门
+## 2. 音频入门
 
 ### 2.1 音频基础知识
 
@@ -118,7 +118,7 @@ AAC HE: AAC LC + SBR (Spectral Band Replication)
 
 AAC HE V2: AAC LC + SBR + PS (Parametric Stereo)
 
-## 视频入门
+## 3. 视频入门
 
 主要内容参见：[链接](https://longyumm.github.io/2019/07/09/H264_theory/)
 
@@ -144,11 +144,11 @@ GoP： 视频压缩帧序列组。
 
 其他部分略过
 
-### 视频压缩技术详解
+### 3.3 视频压缩技术详解
 
 略过
 
-### H264结构与码率
+### 3.4 H264结构与码率
 
 分层
 - NAL层：Network Abstraction Layer, 视频数据网络抽象层
@@ -156,7 +156,7 @@ GoP： 视频压缩帧序列组。
 
 其他部分略过
 
-### YUV讲解
+### 3.5 YUV讲解
 
 - Y表示明亮度，也就是灰阶值，它是基础信号
 - U和V表示的是色度，UV的作用是描述影像色彩及饱和度，它们用于指定像素的颜色
